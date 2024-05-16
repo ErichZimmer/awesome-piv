@@ -2,7 +2,7 @@
 
 # Awesome PIV
 
-A curated list of papers related to Particle Image Velocimetry (PIV). 
+A curated list of papers related to Particle Image Velocimetry (PIV) that I found useful. 
 
 Note: If you were looking for a list of repositories, I'll kindly refer you to [alexlib/awesome piv](https://github.com/alexlib/awesome_piv).
 
@@ -14,6 +14,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
   - [Contents](#contents)
   - [1. Camera Calibration](#1-camera-calibration)
   - [2. LED-based Illumination](#2-led-based-illumination)
+  - [3. PIV of Tornado-like Vortices](#3-piv-of-tornado-like-vortices)
 
 ## 1. Camera Calibration
 ### Papers
@@ -39,12 +40,29 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
 
 ## 2. LED-based Illumination
 ### Papers
- - [2005] PIV with LED: Particle shadow velocimetry (PSV). [Paper](https://www.semanticscholar.org/paper/PIV-with-LED%3A-Particle-Shadow-Velocimetry-(PSV)-Estevadeordal-Goss/06690d8cbee9129106b7216e3b3cee9f45fa1f62)
- - [2010] Pulsed operation of high-power light emitting diodes for imaging flow velocimetry. [Paper](https://www.semanticscholar.org/paper/Pulsed-Operation-of-High-Power-Light-Emitting-for-Willert-Moessner/80d5b1209e45c7bc31663898c6e90d46955db832)
- - [2012] Pulsed, high-power LED illumination for tomographic particle image velocimetry. [Paper](https://rdcu.be/dGrbx)
- - [2017] Tomographic particle image velocimetry using smartphones and colored shadows. [Paper](https://www.nature.com/articles/s41598-017-03722-9)
- - [2019] Pulsed light emitting diodes for particle image velocimetry in a vertically submersible pump [Paper](https://www.semanticscholar.org/paper/PULSED-LIGHT-EMITTING-DIODES-FOR-PARTICLE-IMAGE-IN-B.-F.I.H./0ff6d4ae8c0d1265103a3524bb5fc0ef4fb58fd7)
- - [2021] Pulsed LED line light for large-scale PIV -development and use in wave load measurements. [Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ac17ce/pdf)
- - [2021] Stereoscopic PIV measurements using low-cost action cameras. [Paper](https://rdcu.be/dGrc1)
+ - [2005] - PIV with LED: Particle shadow velocimetry (PSV). [Paper](https://www.semanticscholar.org/paper/PIV-with-LED%3A-Particle-Shadow-Velocimetry-(PSV)-Estevadeordal-Goss/06690d8cbee9129106b7216e3b3cee9f45fa1f62)
+ - [2010] - Pulsed operation of high-power light emitting diodes for imaging flow velocimetry. [Paper](https://www.semanticscholar.org/paper/Pulsed-Operation-of-High-Power-Light-Emitting-for-Willert-Moessner/80d5b1209e45c7bc31663898c6e90d46955db832)
+ - [2012] - Pulsed, high-power LED illumination for tomographic particle image velocimetry. [Paper](https://rdcu.be/dGrbx)
+ - [2018] - An experimental setup for wave-body forces in shear currents. [Paper](https://www.semanticscholar.org/paper/An-experimental-setup-for-wave-body-forces-in-shear-Smeltzer-%C3%86s%C3%B8y/3adadec3c2d7deeffa1f49e449c4ac39d68759ab)
+ - [2017] - Tomographic particle image velocimetry using smartphones and colored shadows. [Paper](https://www.nature.com/articles/s41598-017-03722-9)
+ - [2019] - Pulsed light emitting diodes for particle image velocimetry in a vertically submersible pump [Paper](https://www.semanticscholar.org/paper/PULSED-LIGHT-EMITTING-DIODES-FOR-PARTICLE-IMAGE-IN-B.-F.I.H./0ff6d4ae8c0d1265103a3524bb5fc0ef4fb58fd7)
+ - [2021] - Pulsed LED line light for large-scale PIV -development and use in wave load measurements. [Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ac17ce/pdf)
+ - [2021] - Stereoscopic PIV measurements using low-cost action cameras. [Paper](https://rdcu.be/dGrc1)
+ - [2022] - An alternative illumination source based on LEDs for PIV measurements on human swimmers -- A feasibility study. [Paper](https://www.semanticscholar.org/paper/An-alternative-illumination-source-based-on-LEDs-on-Hochstein-Jakupov/30c18ac531c39aaf0d1278b000254aec6d5e0c82)
 
- - [2022] An alternative illumination source based on LEDs for PIV measurements on human swimmers -- A feasibility study. [Paper](https://www.semanticscholar.org/paper/An-alternative-illumination-source-based-on-LEDs-on-Hochstein-Jakupov/30c18ac531c39aaf0d1278b000254aec6d5e0c82)
+## 3. PIV of Tornado-like Vortices
+### Papers
+ - [2008] - Design, construction and performance of a large tornado simulator for wind engineering applications. [Paper](https://www.semanticscholar.org/paper/Design%2C-construction-and-performance-of-a-large-for-Haan-Sarkar/eabda2036cbb36d5836455cfebb3a30756df664a)
+ - [2010] - Tornado-induced wind loads on a low-rise building. [Paper](https://www.semanticscholar.org/paper/Tornado-induced-wind-loads-on-a-low-rise-building-Haan-Balaramudu/63b5e5124ed8eafd06dee4221ba49f6f3465a534)
+ - [2011] - An experimental study of a high-rise building model in tornado-like winds. [Paper](https://www.semanticscholar.org/paper/An-experimental-study-of-a-high-rise-building-model-Yang-Sarkar/e46c5eaca98d10e3a70c4bc79b1d5b4e2f9d4e6f)
+ - [2011] - Near-ground tornado-like vortex structure resolved by particle image velocimetry (PIV). [Paper](https://rdcu.be/dH30M)
+ - [2014] - Reproducing tornadoes in laboratory using proper scaling. [Paper](https://www.semanticscholar.org/paper/Reproducing-tornadoes-in-laboratory-using-proper-Refan-Hangan/e989b3423d7f7e583f953e3c5009b8f8ce39ca3c)
+ - [2017] - Characteristics of tornado-like vortices simulated in a large-scale ward-type simulator. [Paper](https://rdcu.be/dH31S)
+ - [2018] - Effects of ground roughness on near-surface flow field of a tornado-like vortex. [Paper](https://rdcu.be/dH3ZV)
+ - [2018] - Near surface experimental exploration of tornado vortices. [Paper](https://www.semanticscholar.org/paper/Near-surface-experimental-exploration-of-tornado-Refan-Hangan/d939df8de4dc9993074c83c4d05e8bf7e13c2064)
+ - [2019] - Coherent structures in tornado-like vortices. [Paper](https://www.semanticscholar.org/paper/Coherent-structures-in-tornado-like-vortices-Karami-Hangan/1fc9bebe7ff4cdcaa5a211532284ed719f80878d)
+ - [2019] - Vulnerability of roof and building walls under a translating tornado like vortex. [Paper](https://www.semanticscholar.org/paper/Vulnerability-of-Roof-and-Building-Walls-Under-a-Sabareesh-Matsui/5e8d27e8d501851d3f3ae5cb7269b45be0cb4ec3)
+ - [2019] - Wandering corrections from PIV measurements of tornado-like vortices. [Paper](https://www.semanticscholar.org/paper/Wandering-corrections-from-PIV-measurements-of-Ashton-Refan/d455942be566d1f3991fe226dec784590fa0484c)
+ - [2020] - Experimental investigation of large-scale tornado-like vortices. [Paper](https://www.semanticscholar.org/paper/Experimental-investigation-of-large-scale-vortices-Ashrafi-Romanic/c32efc4750c21b3d008c75fb9c6bcdd2ac623605)
+ - [2021] - Narrowband components in two-celled tornado-like vortices generated in a Ward-type simulator. [Paper](https://www.semanticscholar.org/paper/Narrowband-components-in-two-celled-tornado-like-in-Zuo-Tang/fedf17ce2a7a8341d157d4bd63501ad76b1bbee1)
+ - [2023] - Experimental investigation on the influence of swirl ratio on tornado-like flow fields by varying updraft radius and inflow angle. [Paper](https://www.semanticscholar.org/paper/Experimental-Investigation-on-the-Influence-of-on-Lv-Zhang/5e1fd685d10a240a80bdd54e5fac09f999db3991)
