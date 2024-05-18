@@ -12,12 +12,22 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
 
 - [Awesome PIV](#awesome-piv)
   - [Contents](#contents)
-  - [1. Camera Calibration](#1-camera-calibration)
-  - [2. Tomographic Reconstruction](#2-tomographic-reconstruction)
-  - [3. LED-based Illumination](#3-led-based-illumination)
-  - [4. PIV of Tornado-like Vortices](#4-piv-of-tornado-like-vortices)
+  - [1. Camera Characteristics](#1-camera-characteristics)
+  - [2. Camera Calibration](#2-camera-calibration)
+  - [3. Tomographic Reconstruction](#3-tomographic-reconstruction)
+  - [4. LED-based Illumination](#4-led-based-illumination)
+  - [5. PIV of Tornado-like Vortices](#5-piv-of-tornado-like-vortices)
 
-## 1. Camera Calibration
+## 1. Camera Characteristics
+### Papers
+ - [2000] - How small should pixel size be? [Paper](https://www.semanticscholar.org/paper/How-small-should-pixel-size-be-Chen-Catrysse/a0ca9116572af355c32ef418f6aa75938b42a4bb)
+ - [2006] - Resolution and light sensitivity tradeoff with pixel size. [Paper](https://www.semanticscholar.org/paper/Resolution-and-light-sensitivity-tradeoff-with-size-Farrell-Xiao/289a2ed6eca67d2ef6eaa15b342987a607290733)
+ - [2011] - Performance improvement of CMOS APS pixels using photodiode peripheral utilization method. [Paper](https://www.semanticscholar.org/paper/Performance-Improvement-of-CMOS-APS-Pixels-using-Ay/adcd977532b0b59b722ed98e318cfe2306d0f57f)
+ - [2013] - Estimation and modeling of the full well capacity in pinned photodiode CMOS image sensors. [Paper](https://www.semanticscholar.org/paper/Estimation-and-Modeling-of-the-Full-Well-Capacity-Pelamatti-Goiffon/00fe3992f78128cffdd4d0776fb7cf6c8c1dbe63)
+ - [2018] - Recording Techniques for PIV. [Paper](https://www.semanticscholar.org/paper/Recording-Techniques-for-PIV-Raffel-Willert/859d8d7ddab714f6b1d2021ba18b5035e187382a)
+ - [2020] - What is scientific imaging quality? [Paper](https://www.photometrics.com/wp-content/uploads/2021/01/Scientific-Image-Quality-A3-19-11-2020.pdf)
+
+## 2. Camera Calibration
 ### Papers
  - [1987] - A versatile camera calibration technique for high-accuracy 3D machine vision metrology using off-the-shelf TV cameras and lenses. [Paper](https://ieeexplore.ieee.org/document/1087109)
  - [1997] - A four-step camera calibration procedure with implicit image correction. [Paper](https://ieeexplore.ieee.org/document/609468)
@@ -39,7 +49,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2021] - Concentric circle grids for camera calibration with considering lens distortion. [Paper](https://www.semanticscholar.org/paper/Concentric-circle-grids-for-camera-calibration-with-Bu-Huo/47cf1fa16ec73bdd0a6adeff6b5cf0718842fd23)
  - [2021] - Distortion correction of two-component - two-dimensional PIV using a large imaging sensor with application to measurements of a turbulent boundary layer flow at RE = 2386. [Paper](https://rdcu.be/dGraX)
 
-## 2. Tomographic Reconstruction
+## 3. Tomographic Reconstruction
 ### Papers
  - [2006] - Tomographic particle image velocimetry. [Paper](https://rdcu.be/dIhvu)
  - [2008] - Acceleration of Tomo-PIV by estimating the initial volume intensity distribution. [Paper](https://rdcu.be/dIhvD)
@@ -57,7 +67,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2016] - Intensity-enhanced MART for tomographic PIV. [Paper](https://rdcu.be/dIhw3)
  - [2022] - GPU-accelerated MART and concurrent cross-correlation for tomographic PIV. [Paper](https://rdcu.be/dIhvO)
 
-## 3. LED-based Illumination
+## 4. LED-based Illumination
 ### Papers
  - [2005] - PIV with LED: Particle shadow velocimetry (PSV). [Paper](https://www.semanticscholar.org/paper/PIV-with-LED%3A-Particle-Shadow-Velocimetry-(PSV)-Estevadeordal-Goss/06690d8cbee9129106b7216e3b3cee9f45fa1f62)
  - [2010] - Pulsed operation of high-power light emitting diodes for imaging flow velocimetry. [Paper](https://www.semanticscholar.org/paper/Pulsed-Operation-of-High-Power-Light-Emitting-for-Willert-Moessner/80d5b1209e45c7bc31663898c6e90d46955db832)
@@ -69,7 +79,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2021] - Stereoscopic PIV measurements using low-cost action cameras. [Paper](https://rdcu.be/dGrc1)
  - [2022] - An alternative illumination source based on LEDs for PIV measurements on human swimmers -- A feasibility study. [Paper](https://www.semanticscholar.org/paper/An-alternative-illumination-source-based-on-LEDs-on-Hochstein-Jakupov/30c18ac531c39aaf0d1278b000254aec6d5e0c82)
 
-## 4. PIV of Tornado-like Vortices
+## 5. PIV of Tornado-like Vortices
 ### Papers
  - [2008] - Design, construction and performance of a large tornado simulator for wind engineering applications. [Paper](https://www.semanticscholar.org/paper/Design%2C-construction-and-performance-of-a-large-for-Haan-Sarkar/eabda2036cbb36d5836455cfebb3a30756df664a)
  - [2010] - Tornado-induced wind loads on a low-rise building. [Paper](https://www.semanticscholar.org/paper/Tornado-induced-wind-loads-on-a-low-rise-building-Haan-Balaramudu/63b5e5124ed8eafd06dee4221ba49f6f3465a534)
