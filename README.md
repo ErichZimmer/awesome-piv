@@ -15,8 +15,9 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
   - [1. Camera Characteristics](#1-camera-characteristics)
   - [2. Camera Calibration](#2-camera-calibration)
   - [3. Tomographic Reconstruction](#3-tomographic-reconstruction)
-  - [4. LED-based Illumination](#4-led-based-illumination)
-  - [5. PIV of Tornado-like Vortices](#5-piv-of-tornado-like-vortices)
+  - [4. Seed Generators and Particles](#4-seed-generators-and-particles)
+  - [5. LED-based Illumination](#5-led-based-illumination)
+  - [6. Velocimetry of Tornado-like Vortices](#6-velocimetry-of-tornado-like-vortices)
 
 ## 1. Camera Characteristics
 ### Papers
@@ -67,19 +68,44 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2016] - Intensity-enhanced MART for tomographic PIV. [Paper](https://rdcu.be/dIhw3)
  - [2022] - GPU-accelerated MART and concurrent cross-correlation for tomographic PIV. [Paper](https://rdcu.be/dIhvO)
 
-## 4. LED-based Illumination
+## 4 Seed Generators and Particles
 ### Papers
+ - [2014] - Microbubble generation in a confined radial jet. [Paper](https://www.semanticscholar.org/paper/Microbubble-generation-in-a-confined-radial-jet-Brandner-Graaf/da0ea96b35fcbf41dcac8c02b4b47931dc179921)
+ - [2014] - Validation of a microbubble seeding generator for particle image velocimetry applications. [Paper](https://www.semanticscholar.org/paper/Validation-of-a-microbubble-seeding-generator-for-Zarruk-Henderson/186c62d4c0558aa56eda52f3352bc746a7e189d1)
+ - [2015] - On the use of helium-filled soap bubbles for large-scale tomographic PIV in wind tunnel experiments. [Paper](https://rdcu.be/dJ8p6)
+ - [2017] - Helium-filled soap bubbles for vortex core velocimetry. [Paper](https://rdcu.be/dJ8nQ)
+ - [2018] - A modular, 3D-printed helium-filled soap bubble generator for large-scale volumetric flow measurements. [Paper](https://rdcu.be/dJ8pK)
+ - [2018] - Helium-filled soap bubbles tracing fidelity in wall-bounded turbulence. [Paper](https://rdcu.be/dJ8p4)
+ - [2019] - Generation and control of helium-filled soap bubbles for PIV. [Paper](https://rdcu.be/dJ8pO)
+ - [2020] - Evaluation of a full-scale helium-filled soap bubble generator. [Paper](https://rdcu.be/dJ8pW)
+ - [2021] - Air-filled soap bubbles for volumetric velocity measurements. [Paper](https://rdcu.be/dJ8nL)
+ - [2021] - Soap bubbles seeding for quantitative time resolved velocity measurements of a turbulent wake flow behind a cylinder. [Paper](https://ispiv21.library.iit.edu/index.php/ISPIV/article/view/155)
+ - [2021] - The slip velocity of nearly neutrally buoyant tracers for large-scale PIV. [Paper](https://rdcu.be/dJ8p7)
+ - [2022] - MSB generator using 3D printer final (Contribution #174). [Paper](https://www.researchgate.net/publication/357864919_MSB_generator_using_3Dprinter_final_Contribution_174)
+
+## 5. LED-based Illumination
+### Papers
+ - [1985] - Simulation of optical coupling from surface emitting LEDs. [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-22-11-1722)
  - [2005] - PIV with LED: Particle shadow velocimetry (PSV). [Paper](https://www.semanticscholar.org/paper/PIV-with-LED%3A-Particle-Shadow-Velocimetry-(PSV)-Estevadeordal-Goss/06690d8cbee9129106b7216e3b3cee9f45fa1f62)
  - [2010] - Pulsed operation of high-power light emitting diodes for imaging flow velocimetry. [Paper](https://www.semanticscholar.org/paper/Pulsed-Operation-of-High-Power-Light-Emitting-for-Willert-Moessner/80d5b1209e45c7bc31663898c6e90d46955db832)
  - [2012] - Pulsed, high-power LED illumination for tomographic particle image velocimetry. [Paper](https://rdcu.be/dGrbx)
- - [2018] - An experimental setup for wave-body forces in shear currents. [Paper](https://www.semanticscholar.org/paper/An-experimental-setup-for-wave-body-forces-in-shear-Smeltzer-%C3%86s%C3%B8y/3adadec3c2d7deeffa1f49e449c4ac39d68759ab)
+ - [2013] - Simultaneous color-mixing and collimation within LED package. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8841/884102/Simultaneous-color-mixing-and-collimation-within-LED-package/10.1117/12.2026629.short)
+ - [2013] - Time-resolved PIV measurements of the flow field in a stenosed, compliant arterial model. [Paper](https://rdcu.be/dJ8of)
+ - [2-14] - High-brightness, high-power LED-based strobe illumination for double-frame micro particle image velocimetry. [Paper](https://www.semanticscholar.org/paper/High-brightness%2C-high-power-LED-based-strobe-for-Nasibov-Balaban/92719de45d5de59549244f3429f23bcfc1558b55)
+ - [2017] - High-power LED light sources for optical measurement systems operated at continuous and overdriven pulsed mode. [Paper](https://elib.dlr.de/118524/)
  - [2017] - Tomographic particle image velocimetry using smartphones and colored shadows. [Paper](https://www.nature.com/articles/s41598-017-03722-9)
+ - [2018] - An experimental setup for wave-body forces in shear currents. [Paper](https://www.semanticscholar.org/paper/An-experimental-setup-for-wave-body-forces-in-shear-Smeltzer-%C3%86s%C3%B8y/3adadec3c2d7deeffa1f49e449c4ac39d68759ab)
+ - [2018] - Characterization and evaluation of PIV illumination system using high power light emitting diodes for waterTank applications. [Paper](https://rdcu.be/dJ8n2)
+ - [2018] - Fluid flow measurements using optical flow velocity field estimation and LED-based light sheet illumination. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106791L/Fluid-flow-measurements-using-optical-flow-velocity-field-estimation-and/10.1117/12.2306644.short)
+ - [2019] - Development of LED-based illumination system for high-speed digital image correlation. [Paper](https://www.semanticscholar.org/paper/Development-of-LED-based-illumination-system-for-Sousa-Carneiro/67797b8d85e94b22ee6ba0cc9680b343aa99cfd7)
  - [2019] - Pulsed light emitting diodes for particle image velocimetry in a vertically submersible pump [Paper](https://www.semanticscholar.org/paper/PULSED-LIGHT-EMITTING-DIODES-FOR-PARTICLE-IMAGE-IN-B.-F.I.H./0ff6d4ae8c0d1265103a3524bb5fc0ef4fb58fd7)
  - [2021] - Pulsed LED line light for large-scale PIV -development and use in wave load measurements. [Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ac17ce/pdf)
  - [2021] - Stereoscopic PIV measurements using low-cost action cameras. [Paper](https://rdcu.be/dGrc1)
  - [2022] - An alternative illumination source based on LEDs for PIV measurements on human swimmers -- A feasibility study. [Paper](https://www.semanticscholar.org/paper/An-alternative-illumination-source-based-on-LEDs-on-Hochstein-Jakupov/30c18ac531c39aaf0d1278b000254aec6d5e0c82)
+ - [2022] - Low-cost programable stroboscopic illumination with sub-microsecond pulses for high-throughput microfluidic applications. [Paper](https://www.semanticscholar.org/paper/Low-cost-programable-stroboscopic-illumination-with-Tuljak-Lajevec/78a74420c703175f7e2bf80fc191e6f2929e38c4)
+ - [2022] - Optical and electrical considerations for developing pulsed high-power LED for volumetric particle tracking velocimetry. [Paper](https://orbit.dtu.dk/en/publications/optical-and-electrical-considerations-for-developing-pulsed-high-)
 
-## 5. PIV of Tornado-like Vortices
+## 6. Velocimetry of Tornado-like Vortices
 ### Papers
  - [2008] - Design, construction and performance of a large tornado simulator for wind engineering applications. [Paper](https://www.semanticscholar.org/paper/Design%2C-construction-and-performance-of-a-large-for-Haan-Sarkar/eabda2036cbb36d5836455cfebb3a30756df664a)
  - [2010] - Tornado-induced wind loads on a low-rise building. [Paper](https://www.semanticscholar.org/paper/Tornado-induced-wind-loads-on-a-low-rise-building-Haan-Balaramudu/63b5e5124ed8eafd06dee4221ba49f6f3465a534)
