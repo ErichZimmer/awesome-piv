@@ -14,9 +14,9 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
   - [Contents](#contents)
   - [1. Camera Characteristics](#1-camera-characteristics)
   - [2. Camera Calibration](#2-camera-calibration)
-  - [3. Tomographic Reconstruction](#3-tomographic-reconstruction)
-  - [4. Seed Generators and Particles](#4-seed-generators-and-particles)
-  - [5. LED-based Illumination](#5-led-based-illumination)
+  - [3. Seed Generators and Particles](#3-seed-generators-and-particles)
+  - [4. LED-based Illumination](#4-led-based-illumination)
+  - [5. Tomographic Reconstruction](#5-tomographic-reconstruction)
   - [6. Velocimetry of Tornado-like Vortices](#6-velocimetry-of-tornado-like-vortices)
 
 ## 1. Camera Characteristics
@@ -50,25 +50,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2021] - Concentric circle grids for camera calibration with considering lens distortion. [Paper](https://www.semanticscholar.org/paper/Concentric-circle-grids-for-camera-calibration-with-Bu-Huo/47cf1fa16ec73bdd0a6adeff6b5cf0718842fd23)
  - [2021] - Distortion correction of two-component - two-dimensional PIV using a large imaging sensor with application to measurements of a turbulent boundary layer flow at RE = 2386. [Paper](https://rdcu.be/dGraX)
 
-## 3. Tomographic Reconstruction
-### Papers
- - [2006] - Tomographic particle image velocimetry. [Paper](https://rdcu.be/dIhvu)
- - [2008] - Acceleration of Tomo-PIV by estimating the initial volume intensity distribution. [Paper](https://rdcu.be/dIhvD)
- - [2009] - An efficient simultaneous reconstruction technique for tomographic particle image velocimetry. [Paper](https://rdcu.be/dIhxM)
- - [2010] - Adaptive MLOS-SMART improved accuracy tomographic PIV. [Paper](https://www.semanticscholar.org/paper/Adaptive-MLOS-SMART-improved-accuracy-tomographic-Atkinson-Buchmann/f8e19fed2f927f5bd8a3ef9155bbe75cccdd41c2)
- - [2010] - Motion tracking-enhanced MART for tomographic PIV. [Paper](https://www.semanticscholar.org/paper/Motion-tracking-enhanced-MART-for-tomographic-PIV-Novara-Batenburg/acb40700548dea149178a87f08fa9610960f466e)
- - [2012] - A fast multi-resolution approach to tomographic PIV. [Paper](https://rdcu.be/dIhxS)
- - [2013] - A maximum entropy reconstruction technique for tomographic particle image velocimetry. [Paper](https://www.semanticscholar.org/paper/A-maximum-entropy-reconstruction-technique-for-Bilsky-Lozhkin/0f60146b91ce28ac6c13f9d2c3124302a1c56488)
- - [2013] - Computationally efficient sparse algorithms for tomographic PIV reconstruction. [Paper](https://www.researchgate.net/publication/262201369_Computationally_efficient_sparse_algorithms_for_tomographic_PIV_reconstruction)
- - [2013] - Enhancing Tomo-PIV reconstruction quality by reducing ghost particles. [Paper](https://iopscience.iop.org/article/10.1088/0957-0233/24/2/024010)
- - [2013] - Spatial filtering improved tomographic PIV. [Paper](https://rdcu.be/dIhwA)
- - [2015] - An efficient and accurate approach to MTE-MART for time-resolved tomographic PIV. [Paper](https://rdcu.be/dIhyO)
- - [2015] - Volume reconstruction optimization for tomo-PIV algorithms applied to experimental data. [Paper](https://www.semanticscholar.org/paper/Volume-reconstruction-optimization-for-tomo-PIV-to-Martins-Foucaut/08c8133a78a5fe8bcc8ace783d35a1174a64c7cf)
- - [2016] - Blob-enhanced reconstruction technique. [Paper](https://www.semanticscholar.org/paper/Blob-enhanced-reconstruction-technique-Castrillo-Cafiero/60bbdc2ddcdb0f748340445264eff903828a2e5e)
- - [2016] - Intensity-enhanced MART for tomographic PIV. [Paper](https://rdcu.be/dIhw3)
- - [2022] - GPU-accelerated MART and concurrent cross-correlation for tomographic PIV. [Paper](https://rdcu.be/dIhvO)
-
-## 4 Seed Generators and Particles
+## 3 Seed Generators and Particles
 ### Papers
  - [2014] - Microbubble generation in a confined radial jet. [Paper](https://www.semanticscholar.org/paper/Microbubble-generation-in-a-confined-radial-jet-Brandner-Graaf/da0ea96b35fcbf41dcac8c02b4b47931dc179921)
  - [2014] - Validation of a microbubble seeding generator for particle image velocimetry applications. [Paper](https://www.semanticscholar.org/paper/Validation-of-a-microbubble-seeding-generator-for-Zarruk-Henderson/186c62d4c0558aa56eda52f3352bc746a7e189d1)
@@ -83,7 +65,7 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2021] - The slip velocity of nearly neutrally buoyant tracers for large-scale PIV. [Paper](https://rdcu.be/dJ8p7)
  - [2022] - MSB generator using 3D printer final (Contribution #174). [Paper](https://www.researchgate.net/publication/357864919_MSB_generator_using_3Dprinter_final_Contribution_174)
 
-## 5. LED-based Illumination
+## 4. LED-based Illumination
 ### Papers
  - [1985] - Simulation of optical coupling from surface emitting LEDs. [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-22-11-1722)
  - [2005] - PIV with LED: Particle shadow velocimetry (PSV). [Paper](https://www.semanticscholar.org/paper/PIV-with-LED%3A-Particle-Shadow-Velocimetry-(PSV)-Estevadeordal-Goss/06690d8cbee9129106b7216e3b3cee9f45fa1f62)
@@ -104,6 +86,24 @@ Note: If you were looking for a list of repositories, I'll kindly refer you to [
  - [2022] - An alternative illumination source based on LEDs for PIV measurements on human swimmers -- A feasibility study. [Paper](https://www.semanticscholar.org/paper/An-alternative-illumination-source-based-on-LEDs-on-Hochstein-Jakupov/30c18ac531c39aaf0d1278b000254aec6d5e0c82)
  - [2022] - Low-cost programable stroboscopic illumination with sub-microsecond pulses for high-throughput microfluidic applications. [Paper](https://www.semanticscholar.org/paper/Low-cost-programable-stroboscopic-illumination-with-Tuljak-Lajevec/78a74420c703175f7e2bf80fc191e6f2929e38c4)
  - [2022] - Optical and electrical considerations for developing pulsed high-power LED for volumetric particle tracking velocimetry. [Paper](https://orbit.dtu.dk/en/publications/optical-and-electrical-considerations-for-developing-pulsed-high-)
+
+## 5. Tomographic Reconstruction
+### Papers
+ - [2006] - Tomographic particle image velocimetry. [Paper](https://rdcu.be/dIhvu)
+ - [2008] - Acceleration of Tomo-PIV by estimating the initial volume intensity distribution. [Paper](https://rdcu.be/dIhvD)
+ - [2009] - An efficient simultaneous reconstruction technique for tomographic particle image velocimetry. [Paper](https://rdcu.be/dIhxM)
+ - [2010] - Adaptive MLOS-SMART improved accuracy tomographic PIV. [Paper](https://www.semanticscholar.org/paper/Adaptive-MLOS-SMART-improved-accuracy-tomographic-Atkinson-Buchmann/f8e19fed2f927f5bd8a3ef9155bbe75cccdd41c2)
+ - [2010] - Motion tracking-enhanced MART for tomographic PIV. [Paper](https://www.semanticscholar.org/paper/Motion-tracking-enhanced-MART-for-tomographic-PIV-Novara-Batenburg/acb40700548dea149178a87f08fa9610960f466e)
+ - [2012] - A fast multi-resolution approach to tomographic PIV. [Paper](https://rdcu.be/dIhxS)
+ - [2013] - A maximum entropy reconstruction technique for tomographic particle image velocimetry. [Paper](https://www.semanticscholar.org/paper/A-maximum-entropy-reconstruction-technique-for-Bilsky-Lozhkin/0f60146b91ce28ac6c13f9d2c3124302a1c56488)
+ - [2013] - Computationally efficient sparse algorithms for tomographic PIV reconstruction. [Paper](https://www.researchgate.net/publication/262201369_Computationally_efficient_sparse_algorithms_for_tomographic_PIV_reconstruction)
+ - [2013] - Enhancing Tomo-PIV reconstruction quality by reducing ghost particles. [Paper](https://iopscience.iop.org/article/10.1088/0957-0233/24/2/024010)
+ - [2013] - Spatial filtering improved tomographic PIV. [Paper](https://rdcu.be/dIhwA)
+ - [2015] - An efficient and accurate approach to MTE-MART for time-resolved tomographic PIV. [Paper](https://rdcu.be/dIhyO)
+ - [2015] - Volume reconstruction optimization for tomo-PIV algorithms applied to experimental data. [Paper](https://www.semanticscholar.org/paper/Volume-reconstruction-optimization-for-tomo-PIV-to-Martins-Foucaut/08c8133a78a5fe8bcc8ace783d35a1174a64c7cf)
+ - [2016] - Blob-enhanced reconstruction technique. [Paper](https://www.semanticscholar.org/paper/Blob-enhanced-reconstruction-technique-Castrillo-Cafiero/60bbdc2ddcdb0f748340445264eff903828a2e5e)
+ - [2016] - Intensity-enhanced MART for tomographic PIV. [Paper](https://rdcu.be/dIhw3)
+ - [2022] - GPU-accelerated MART and concurrent cross-correlation for tomographic PIV. [Paper](https://rdcu.be/dIhvO)
 
 ## 6. Velocimetry of Tornado-like Vortices
 ### Papers
